@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class um {
+    public  static void main(String[] args) {
+        float a, b, c;
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Digite os numeros:");
+        a = teclado.nextFloat();
+        b = teclado.nextFloat();
+        if (b==0){
+            System.out.println("Divisão por zero!");
+        }
+        else{
+            c = a/b;
+            System.out.println("A divisão é "+c);
+        }
+    }
+}
