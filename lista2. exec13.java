@@ -1,4 +1,4 @@
-//9. A copa do mundo de futebol da FIFA é uma competição internacional que iniciou em 1930, acontecendo
+//13. A copa do mundo de futebol da FIFA é uma competição internacional que iniciou em 1930, acontecendo
 //desde então de 4 em 4 anos, exceto durante o período das guerras mundiais que impossibilitaram a
 //realização de 2 copas mundiais. Sabendo dessas informações, faça um algoritmo que, dado o ano atual,
 //calcule o número de copas já realizadas e exiba o resultado ao usuário.
