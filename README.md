@@ -1,26 +1,45 @@
-Claro! Aqui está uma receita clássica de cookies com gotas de chocolate:
+Claro! Aqui está uma receita simples e deliciosa de Yakisoba:
+
+---
 
 **Ingredientes:**
-- 2 1/4 xícaras (chá) de farinha de trigo
-- 1 colher (chá) de bicarbonato de sódio
-- 1 colher (chá) de sal
-- 1 xícara (chá) de manteiga sem sal, em temperatura ambiente
-- 3/4 xícara (chá) de açúcar cristal
-- 3/4 xícara (chá) de açúcar mascavo
-- 1 colher (chá) de essência de baunilha
-- 2 ovos grandes
-- 2 xícaras (chá) de gotas de chocolate meio amargo
-- 1 xícara (chá) de nozes picadas (opcional)
+
+- 250g de macarrão para yakisoba ou macarrão instantâneo
+- 200g de carne bovina (alcatra ou contra-filé) em tiras finas
+- 100g de peito de frango em tiras finas (opcional)
+- 1 cenoura média em tiras finas
+- 1/2 repolho pequeno picado em tiras
+- 1 cebola média cortada em pétalas
+- 1/2 pimentão vermelho em tiras
+- 1/2 pimentão verde em tiras
+- 100g de brócolis
+- 2 colheres (sopa) de óleo (de preferência óleo de gergelim ou vegetal)
+- Sal e pimenta-do-reino a gosto
+
+**Molho Yakisoba:**
+- 4 colheres (sopa) de molho shoyu
+- 2 colheres (sopa) de molho de ostras (opcional)
+- 1 colher (sopa) de açúcar
+- 1 colher (sopa) de ketchup
+- 1 colher (sopa) de amido de milho
+- 1 xícara (chá) de água
+
+---
 
 **Modo de preparo:**
-1. Preaqueça o forno a 180°C e forre uma assadeira com papel manteiga.
-2. Misture a farinha, o bicarbonato e o sal em uma tigela. Reserve.
-3. Na batedeira, bata a manteiga, o açúcar cristal, o açúcar mascavo e a baunilha até formar um creme claro.
-4. Adicione os ovos um a um, batendo bem após cada adição.
-5. Acrescente aos poucos a mistura de farinha, batendo só até incorporar.
-6. Misture as gotas de chocolate e, se desejar, as nozes, com uma espátula.
-7. Com uma colher, coloque porções da massa na assadeira, deixando espaço entre elas.
-8. Asse por 10 a 12 minutos, ou até as bordas dourarem levemente.
-9. Retire do forno e deixe esfriar na assadeira por 5 minutos antes de transferir para uma grade.
 
-Aproveite seus cookies! Se quiser ajustar a textura (mais macio ou crocante), é só avisar.
+1. Cozinhe o macarrão conforme as instruções da embalagem. Escorra e reserve.
+2. Em uma tigela, misture todos os ingredientes do molho até dissolver bem o amido de milho. Reserve.
+3. Aqueça o óleo em uma panela grande ou wok. Adicione a carne (e o frango, se usar) e frite até dourar levemente.
+4. Acrescente a cebola, cenoura e pimentões. Refogue por 2-3 minutos.
+5. Adicione o repolho e o brócolis. Refogue até que os legumes fiquem al dente.
+6. Junte o macarrão cozido e misture bem com os legumes e as carnes.
+7. Adicione o molho reservado, mexendo sempre até engrossar e envolver todos os ingredientes.
+8. Prove e ajuste o sal e a pimenta.
+9. Sirva quente!
+
+---
+
+**Dica:** Você pode variar os legumes conforme seu gosto ou o que tiver disponível (use acelga, couve-flor, cogumelos, etc.).
+
+Bom apetite! 🍜
