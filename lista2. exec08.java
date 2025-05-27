@@ -1,4 +1,4 @@
-//7.Zé Borba Gato é dono de um terreno na cidade de Sabará e deseja saber qual seria o preço médio de venda
+//8.Zé Borba Gato é dono de um terreno na cidade de Sabará e deseja saber qual seria o preço médio de venda
 //desse terreno. Conforme visto na planta do mesmo, nota-se que o lote possui um formato de trapézio
 //Assim sendo, dados os valores das medidas da base maior, base menor e da altura do terreno (em metros), e
 //sabendo o valor médio (R$) pago por metro quadrado no local onde se encontra o lote, calcule e mostre a área
