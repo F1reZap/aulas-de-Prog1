@@ -1,4 +1,4 @@
-//12. Num dado momento, 3 canais de TV tinham, em sua programação, novelas em seu horário nobre: canal A,
+//23. Num dado momento, 3 canais de TV tinham, em sua programação, novelas em seu horário nobre: canal A,
 //novela A, canal B, novela B, canal C novela C. Numa pesquisa com 3000 pessoas, perguntou-se quais
 //novela agradavam. A tabela a seguir mostra o resultado da pesquisa:
 //Novelas Nº de telespectadores
