@@ -35,5 +35,3 @@ public class lista2 {
 }
 
 //Quando o valor do discriminante (delta) é negativo, a equação não possui raízes reais, apenas raízes complexas (imaginárias).
-// O método "Math.sqrt(delta)" não retorna um valor válido para números negativos,
-//  causando resultados incorretos ou erros.
