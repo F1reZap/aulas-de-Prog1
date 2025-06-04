@@ -13,9 +13,7 @@
 //quantidade de pessoas que não gostam de nenhuma das novelas. Utilize as fórmulas da Teoria dos Conjuntos
 //para calcular corretamente os totais, lembrando que há sobreposição entre os grupos
 
-import java.util.Scanner;
-
-public class fabinhojuninho {
+public class Main {
     public static void main(String[] args) {
         double A, B, C, AB, AC, BC, ABC, cal1, cal2, cal3, cal4, Total ;
         Total = 3000;
@@ -27,14 +25,12 @@ public class fabinhojuninho {
         BC = 300;
         ABC = 100;
         //Contas malditas
-        cal1 = A+B+C;
-        cal2 = AB+AC+BC;
-        cal3 = cal1+cal2+ABC;
-        cal4 = cal3-Total;
+        cal1 = A+B+C-AB-AC-BC+ABC;
+        cal2 = Total-cal1;
 
 
 
-        System.out.println("O Número de pessoas que não gostam de nenhuma novela é: "+cal4);
+        System.out.println("O Número de pessoas que não gostam de nenhuma novela é: "+cal2);
     }
 
 }
