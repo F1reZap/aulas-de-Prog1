@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class lista2 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in);
 
         System.out.print("Digite o valor de A: ");
         double A = scanner.nextDouble();
@@ -33,6 +33,6 @@ public class lista2 {
             double PI = Math.sqrt(-del) / (2 * A);
             System.out.println("Duas raízes complexas: X1= "+PR+" + "+PI+"i. X2= "+PR+ " - "+PI+"i");
         }
-        scanner.close();
+        teclado.close();
     }
 }
