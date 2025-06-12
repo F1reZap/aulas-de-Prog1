@@ -1,6 +1,7 @@
-//11. Elabore um programa que calcule e exiba a tensão S de uma barra cilíndrica de diâmetro D
-//submetida a uma carga Q. Os valores de D e Q devem ser fornecidos pelo usuário do programa via
-//teclado. Utilize a fórmula:
+//12.Faça um programa que receba de entrada a data de votação do ano atual e a data de nascimento de uma
+//pessoa. As datas podem ser lidas em 3 informações (dia, mês e ano). Faça as devidas comparações e
+//verifique se essa pessoa não pode votar, é obrigada a votar ou o voto é facultativo, segundo as regras
+//brasileiras.
 import java.util.Scanner;
 
 public class lista3 {
