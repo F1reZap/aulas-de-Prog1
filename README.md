@@ -1,32 +1,23 @@
-Claro! Aqui está uma receita clássica de pudim de leite condensado:
+Bom dia! Aqui está uma receita simples e deliciosa de pavê de manga:
 
-### Ingredientes
+**Pavê de Manga**
 
-**Para o pudim:**
+**Ingredientes:**
+- 2 mangas grandes maduras (descascadas e cortadas em cubos)
 - 1 lata de leite condensado
-- 2 latas de leite (use a lata de leite condensado como medida)
-- 3 ovos
+- 2 caixas de creme de leite
+- 1 pacote de biscoito maisena (aprox. 200g)
+- 1/2 xícara de leite (para umedecer os biscoitos)
+- Suco de 1/2 limão (opcional, para realçar o sabor)
+- Polpa de 1 manga para decorar (opcional)
 
-**Para a calda:**
-- 1 xícara de açúcar
-- 1/2 xícara de água
+**Modo de Preparo:**
 
----
+1. Bata no liquidificador as mangas picadas, o leite condensado e o creme de leite até formar um creme liso. Se quiser um sabor mais intenso, adicione o suco de limão.
+2. Em uma tigela rasa, coloque o leite. Umedeça rapidamente os biscoitos maisena no leite.
+3. Em um refratário, faça uma camada de biscoitos umedecidos, depois uma camada do creme de manga.
+4. Repita as camadas até acabar os ingredientes, finalizando com o creme.
+5. Se desejar, decore com cubinhos de manga ou polpa batida por cima.
+6. Leve à geladeira por pelo menos 4 horas antes de servir para ficar bem geladinho.
 
-### Modo de preparo
-
-**Calda:**
-1. Em uma panela, coloque o açúcar e leve ao fogo baixo.
-2. Mexa até o açúcar derreter e ficar com cor de caramelo (cuidado para não queimar!).
-3. Adicione a água aos poucos, mexendo até dissolver todo o caramelo e formar uma calda lisa.
-4. Despeje a calda em uma forma de pudim (com furo central) e espalhe por todo o fundo. Reserve.
-
-**Pudim:**
-1. No liquidificador, bata o leite condensado, o leite e os ovos até ficar homogêneo.
-2. Despeje a mistura na forma caramelizada.
-3. Cubra a forma com papel-alumínio.
-4. Leve ao forno preaquecido a 180°C em banho-maria (coloque a forma do pudim dentro de uma assadeira com água quente) por cerca de 1 hora e 30 minutos, ou até que, ao espetar um palito, ele saia limpo.
-5. Espere esfriar, leve à geladeira por pelo menos 4 horas (o ideal é de um dia para o outro).
-6. Desenforme e sirva gelado.
-
-Bom apetite! Se quiser adaptar a receita ou fazer algum pudim diferente, só pedir!
+Pronto! Seu pavê de manga está pronto para ser saboreado. Se precisar de uma variação ou quiser outra receita, é só pedir!
