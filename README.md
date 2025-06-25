@@ -1,25 +1,23 @@
-Ingredientes:
+Claro! Aqui vai uma receita clássica de biscoito de polvilho, simples e deliciosa:
 
-    2 xícaras de farinha de trigo
-    1 e 1/2 xícaras de açúcar
-    1/2 xícara de cacau em pó
-    1 colher de sopa de fermento em pó
-    1/2 colher de chá de sal
-    3 ovos
-    1 xícara de leite
-    1/2 xícara de óleo (de preferência óleo vegetal)
-    1 colher de chá de essência de baunilha
+**Ingredientes:**
+- 500g de polvilho azedo
+- 1 copo (americano) de óleo (aprox. 200ml)
+- 1 copo (americano) de água
+- 1 copo (americano) de leite
+- 2 ovos
+- 1 colher (sopa) rasa de sal
 
-Modo de preparo:
+**Modo de preparo:**
+1. Ferva o leite, a água e o óleo juntos.
+2. Em uma tigela grande, coloque o polvilho e o sal, e escalde com a mistura fervente (despeje sobre o polvilho aos poucos, mexendo sempre).
+3. Deixe esfriar um pouco e acrescente os ovos, um a um, misturando bem.
+4. Mexa até obter uma massa lisa e homogênea (ela fica meio grudenta mesmo).
+5. Coloque a massa em um saco de confeitar (ou use um saco plástico cortando a ponta) e modele os biscoitos sobre uma assadeira (não precisa untar).
+6. Leve ao forno preaquecido a 200°C por cerca de 20 minutos, ou até que estejam levemente dourados e sequinhos.
 
-    Pré-aqueça o forno a 180°C e unte uma forma com manteiga e farinha.
-    Em uma tigela grande, misture os ingredientes secos (farinha, açúcar, cacau, fermento e sal).
-    Adicione os ovos, leite, óleo e essência de baunilha aos ingredientes secos. Misture bem até obter uma massa homogênea.
-    Despeje a massa na forma untada e leve ao forno por cerca de 30 a 40 minutos, ou até que um palito inserido no centro do bolo saia limpo.
-    Retire do forno, deixe esfriar um pouco e desenforme.
+**Dicas:**
+- Não deixe dourar demais, para não ficarem duros.
+- Se quiser, pode fazer em formato de rosquinhas ou palitos.
 
-Dica opcional:
-
-Finalize com uma cobertura de brigadeiro ou polvilhe açúcar de confeiteiro por cima!
-
-Bom apetite! 🍫🎂
+Bom apetite! Se precisar de receitas diferentes, é só pedir.
