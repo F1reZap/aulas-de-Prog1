@@ -1,4 +1,3 @@
-//17. Faça um algoritmo que receba três números e mostre-os em ordem crescente e decrescente
 import java.util.Scanner;
 
 public class lista3 {
