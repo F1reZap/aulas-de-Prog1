@@ -1,25 +1,27 @@
-Ingredientes:
+# Receita de Tapioca
 
-    2 xícaras de farinha de trigo
-    1 e 1/2 xícaras de açúcar
-    1/2 xícara de cacau em pó
-    1 colher de sopa de fermento em pó
-    1/2 colher de chá de sal
-    3 ovos
-    1 xícara de leite
-    1/2 xícara de óleo (de preferência óleo vegetal)
-    1 colher de chá de essência de baunilha
+A tapioca é uma iguaria típica do Brasil, feita a partir da goma de mandioca hidratada. É simples, rápida e pode ser recheada com diversos ingredientes, como queijo, coco, leite condensado, frango, entre outros.
 
-Modo de preparo:
+## Ingredientes
 
-    Pré-aqueça o forno a 180°C e unte uma forma com manteiga e farinha.
-    Em uma tigela grande, misture os ingredientes secos (farinha, açúcar, cacau, fermento e sal).
-    Adicione os ovos, leite, óleo e essência de baunilha aos ingredientes secos. Misture bem até obter uma massa homogênea.
-    Despeje a massa na forma untada e leve ao forno por cerca de 30 a 40 minutos, ou até que um palito inserido no centro do bolo saia limpo.
-    Retire do forno, deixe esfriar um pouco e desenforme.
+- 200g de goma pronta para tapioca (encontrada em supermercados)
+- Sal a gosto
+- Recheio de sua preferência (queijo, coco ralado, presunto, frango, etc.)
 
-Dica opcional:
+## Modo de Preparo
 
-Finalize com uma cobertura de brigadeiro ou polvilhe açúcar de confeiteiro por cima!
+1. **Preaqueça uma frigideira antiaderente** em fogo médio. Não é necessário untar.
+2. **Peneire a goma de tapioca** para que fique mais soltinha e sem grumos.
+3. **Coloque uma camada fina de goma na frigideira**, cobrindo todo o fundo. Use uma colher para espalhar.
+4. **Aguarde cerca de 1-2 minutos** até que a goma comece a unir e formar uma “panqueca”. Adicione uma pitada de sal.
+5. **Adicione o recheio de sua preferência** sobre a tapioca ainda na frigideira.
+6. **Dobre a tapioca ao meio** e deixe mais alguns segundos para o recheio aquecer ou derreter (no caso de queijo).
+7. **Retire do fogo e sirva quente**.
 
-Bom apetite! 🍫🎂
+## Dicas
+
+- A goma está no ponto quando, ao passar uma espátula, ela se solta facilmente da frigideira.
+- O recheio pode ser doce ou salgado.
+- Se desejar tapioca mais crocante, deixe alguns segundos a mais no fogo.
+
+Bom apetite!
