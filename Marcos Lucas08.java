@@ -38,6 +38,7 @@ public class lista5 {
                 FreqAbsol[10]++;
             }
         }
+//        FreqRelat resolvida
         for (int j=0; j<11; j++){
             if (j ==0){
                 FreqRelat[0]=((double) FreqAbsol[0] /80)*100;
