@@ -10,7 +10,7 @@ public class lista5 {
 
         Scanner teclado = new Scanner(System.in);
         Random random = new Random();
-
+//frequencia absoluta resolvida (diogo é muito buxa)
         for (int i = 0; i<80; i++){
             nt = random.nextInt(0, 11);
             notas[i] = nt;
