@@ -1,49 +1,24 @@
-Claro! Aqui está uma receita clássica de lasanha para você:
+Aqui está uma receita tradicional de broa de fubá!
 
-## Receita de Lasanha Tradicional
+**Ingredientes:**
+- 2 xícaras de fubá
+- 1 xícara de farinha de trigo
+- 1 xícara de açúcar
+- 2 ovos
+- 1/2 xícara de leite
+- 2 colheres (sopa) de manteiga ou margarina
+- 1 colher (sopa) de fermento em pó
+- 1 pitada de sal
+- Erva-doce a gosto (opcional)
 
-### Ingredientes
+**Modo de preparo:**
+1. Preaqueça o forno a 180°C. Unte uma assadeira com manteiga e polvilhe fubá.
+2. Em uma tigela, misture o fubá, a farinha de trigo, o açúcar, o sal e a erva-doce (se desejar).
+3. Acrescente a manteiga, os ovos e o leite. Misture bem até formar uma massa homogênea.
+4. Por último, adicione o fermento e misture delicadamente.
+5. Modele bolinhas ou coloque a massa em colheradas na assadeira.
+6. Leve ao forno por cerca de 30 minutos ou até dourar.
 
-- 500g de massa para lasanha (pré-cozida ou comum)
-- 500g de carne moída
-- 2 colheres de sopa de óleo ou azeite
-- 1 cebola picada
-- 2 dentes de alho picados
-- 2 latas de molho de tomate
-- Sal e pimenta a gosto
-- 1 colher de chá de orégano
-- 300g de presunto fatiado
-- 300g de queijo mussarela fatiado
-- 1 copo de requeijão (opcional)
-- 50g de queijo parmesão ralado
+**Dica:** Se quiser uma broa mais rústica, polvilhe um pouco de fubá por cima antes de assar.
 
-#### Molho Branco (opcional):
-- 2 colheres de sopa de manteiga
-- 2 colheres de sopa de farinha de trigo
-- 500ml de leite
-- Sal, noz-moscada e pimenta a gosto
-
-### Modo de Preparo
-
-1. **Molho de Carne:**  
-   Em uma panela, aqueça o óleo e refogue a cebola e o alho. Acrescente a carne moída e frite até dourar. Junte o molho de tomate, sal, pimenta e orégano. Deixe cozinhar por 15 minutos.
-
-2. **Molho Branco (opcional):**  
-   Derreta a manteiga, adicione a farinha e mexa até dourar. Acrescente o leite aos poucos, mexendo até engrossar. Tempere com sal, pimenta e noz-moscada.
-
-3. **Montagem:**  
-   Em um refratário, coloque um pouco de molho de carne. Faça camadas na seguinte ordem:
-   - Massa de lasanha
-   - Molho de carne
-   - Presunto
-   - Queijo mussarela
-   - (Opcional: molho branco ou requeijão)
-   Repita as camadas e finalize com queijo mussarela e parmesão por cima.
-
-4. **Forno:**  
-   Leve ao forno pré-aquecido a 180°C por cerca de 30 minutos ou até gratinar.
-
-5. **Servir:**  
-   Espere alguns minutos após tirar do forno para cortar e servir.
-
-Bom apetite! Se quiser uma versão vegetariana ou outros detalhes, é só pedir!
+Bom apetite! Se quiser uma receita especial ou com outro ingrediente, me avise!
