@@ -1,0 +1,68 @@
+//Marcos Lucas de Souza Machado
+//Exp de testes realizados:
+//teste1. calculo da média da matriz (Funcinou)
+
+import java.util.Random;
+import java.util.Scanner;
+
+//5. O desvio padrão de uma amostra de dados calcula o quanto de variação existe da amostra em relação à
+//média. Valores baixos indicam que os dados tendem a estar próximos à média, por outro lado, valores
+//altos indicam maior dispersão dos dados. O gerente de produção da Refrigerator Tabajará está avaliando o
+//processo de fabricação de seus refrigerantes em lata, especificamente a etapa de preenchimento do
+//conteúdo. As latas devem possuir 390 ml, com desvio padrão de + ou – 5 ml. Na análise foram coletadas
+//20 amostras aleatórias das 6 linhas de produção da fábrica, medindo-se a quantidade de produto das
+//mesmas. Você é o programador da empresa, e ficou incumbido de implementar um programa que auxilie
+//seu gerente, mostrando ao mesmo a média e o desvio padrão de cada linha de produção. Além disso,
+//exiba, se for o caso, qual das linhas de produção precisa ser revisada.
+
+public class lista6 {
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        Random random = new Random();
+
+        int[][] Producao = new int[6][20];
+        int prench=0, X=0, N=1;
+        double media1=0, media2=0, media3=0, mediafinal=0;
+        double DP1=0, DP2=0, DP3=0, DP4=0, DP5=0;
+
+        //for de preenchimento:
+        for (int i = 0; i< Producao.length; i++){
+            for (int j = 0; j< Producao[i].length; j++){
+                prench = random.nextInt(300, 480);
+                Producao[i][j] = prench;
+//                System.out.println(".");
+            }
+        }
+        //for cálculo de média
+        for (int i = 0; i< Producao.length; i++){
+            for (int j = 0; j< Producao[i].length; j++){
+                media1+= Producao[i][j];
+            }
+            media2 = media1/ Producao[i].length;
+            media3 += media2;
+        }
+        mediafinal = media3/ Producao.length;
+        //for calculo desvio padrão
+
+        //fazer linha por linha**********************************
+
+        //:x Meu Deus
+        for (int i=0; i< Producao.length; i++){
+            for (int j=0; j<Producao[i].length; j++){
+                X=Producao[i][j];
+                DP1 = X-mediafinal;
+                DP2 = Math.pow(DP1, 2);
+                DP3 += DP2;
+                N++;
+            }
+        }
+        DP4=DP3/N;
+        DP5=Math.sqrt(DP4);
+        System.out.println(DP5);
+        for (int i=0; i< Producao.length; i++){
+            for (int j=0; j<Producao[i].length; j++){
+
+            }
+        }
+    }
+}
